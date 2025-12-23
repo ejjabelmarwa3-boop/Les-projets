@@ -1,0 +1,6 @@
+1;Sara Maaroufi;20;L2
+2;Yassine Salhi;22;L3
+3;Aymen Farouqi;19;L1
+4;Aya Nouri;24;Master
+5;Othmane Lahrech;21;L2
+

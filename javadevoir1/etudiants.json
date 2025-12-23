@@ -1,0 +1,7 @@
+[
+  {"id":1, "nom":"Sara Maaroufi", "age":20, "niveau":"L2"},
+  {"id":2, "nom":"Yassine Salhi", "age":22, "niveau":"L3"},
+  {"id":3, "nom":"Aymen Farouqi", "age":19, "niveau":"L1"},
+  {"id":4, "nom":"Aya Nouri", "age":24, "niveau":"Master"},
+  {"id":5, "nom":"Othmane Lahrech", "age":21, "niveau":"L2"},
+]
